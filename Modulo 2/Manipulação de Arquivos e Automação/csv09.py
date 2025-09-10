@@ -1,0 +1,1 @@
+#Dado o arquivo estoque.csv com as colunas categoria, produto e quantidade, crie um programa que agrupe os produtos por categoria e calcule a soma total de cada uma. Exiba os resultados ou salve em um novo CSV chamado resumo_estoque.csv.

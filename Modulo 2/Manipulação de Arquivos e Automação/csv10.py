@@ -1,0 +1,1 @@
+#Você tem dois arquivos: clientes.csv (com colunas id, nome) e pedidos.csv (com colunas cliente_id, produto, valor). Crie um programa que combine as informações dos dois arquivos e gere um novo relatorio.csv com nome, produto e valor
